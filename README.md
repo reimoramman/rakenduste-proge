@@ -1,6 +1,6 @@
 INFO
 
-Kuna mulle ei meeldinud, et (N22d) kodu1 oli kuup2ev siis muutsin lihtsalt selle nime. Failide sisus mingit muutust endas ei ole. Algul m2tlesin, et muudan kuup2eva hetkeseks (Hetk mill kodut22 sai tehtud) ja salvestan antud faili 2le.
+Kuna mulle ei meeldinud, et (N22d) kodu1 oli kuup2ev siis muutsin lihtsalt selle nime. Failide sisus mingit muutust endas ei ole. Algul m2tlesin, et muudan kuup2eva hetkeseks (Hetk mill kodut22 sai tehtud) ja salvestan antud faili üle.
 See idee ikka ei meeldinud ja tegin uue eraldi folderi teise kodut22 jaoks. Ma ei tea kas keegi seda infot siin loeb aga juhul kui on abiks v2i lihtsalt huvitav siis on ju h2sti :)
 
 
